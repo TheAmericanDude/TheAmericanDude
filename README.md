@@ -1,12 +1,14 @@
-<h1 align="center">Daniel Johnson</h1>
-
-<br />
+<p align="center">
+        <a href="https://github.com/TheAmericanDude">
+            <img style="width: 445px;" src="https://i.imgur.com/c0jrQbP.png" 
+                alt="Daniel Johnson" /></a>
+</p>
     
 <p align="center">
         <!-- Typing SVG -->
         <a href="https://git.io/typing-svg"><img
-                src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=ffffff&center=true&width=500&lines=Front-End+Software+Developer"
-                alt="Typing SVG" /></a>
+        src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=31&duration=3000&pause=1000&color=3A76F0&center=true&width=500&lines=Front-End+Software+Developer"
+        alt="Typing SVG" /></a>
 </p>
     
 <!-- Social icons section -->
@@ -39,8 +41,7 @@
                 alt="GitHub Star 2023" /></a>
 </p>
     
-<h3 align="center" style="margin-bottom: 30px;">💻 Languages and Tools</h3>
-    
+<h3 align="center" style="margin-bottom: 30px; color: #3A76F0;">💻 Languages and Tools</h3>    
 <p align="center">
 <img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
