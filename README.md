@@ -49,6 +49,10 @@
 
 <br />
 
+<hr>
+
+<br />
+
 <h3 align="Left" style="margin-bottom: 30px; color: #3A76F0;">💻 Languages and Tools</h3>
 
 <br />
@@ -69,3 +73,4 @@
     <img align="Left" alt="GitHub" width="30px" style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
+<br />
