@@ -1,4 +1,3 @@
-<br />
 <p align="Left">
     <a href="https://github.com/TheAmericanDude">
         <img style="width: 448px;" src="https://i.imgur.com/c0jrQbP.png" alt="Daniel Johnson" /></a>
@@ -73,4 +72,3 @@
     <img align="Left" alt="GitHub" width="30px" style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
-<br />
