@@ -63,12 +63,12 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img align="Left" alt="JavaScript" width="30px" style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align="Left" alt="TypeScript" width="30px" style="padding-right:10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img align="Left" alt="React" width="30px" style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="Left" alt="Angular" width="30px" style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-    <img align="Left" alt="TypeScript" width="30px" style="padding-right:10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img align="Left" alt="GitHub" width="30px" style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
